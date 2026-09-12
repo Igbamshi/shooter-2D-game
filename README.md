@@ -21,7 +21,9 @@ Pilot a lone ranger through the desert, blast off waves of enemies, and rack up 
 
 ## 🖼️ Preview
 
-*(Drop a screenshot or GIF of the game here once you've got one you like — it makes a huge difference on GitHub.)*
+<img width="1366" height="602" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/2cd60e25-29a3-4275-a8b1-f8d084f1c71f" />
+<img width="1366" height="604" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/cd7b8d14-6822-4832-8352-75bc1b8b9ca2" />
+<img width="1366" height="604" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/a0f2f304-2f1c-4f6e-87c3-a165c5447032" />
 
 ## 🚀 Getting Started
 
